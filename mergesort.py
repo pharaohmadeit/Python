@@ -1,4 +1,5 @@
 # coding: utf-8
+"""Sorting a numpy array object with merge sort algorithm."""
 import numpy as np
 def merge_sort(data):
     sort_array(data, 0, len(data) - 1)
