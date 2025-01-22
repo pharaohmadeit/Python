@@ -1,4 +1,5 @@
 # coding: utf-8
+"""Sorting a numpy array object with linear sort algorithm."""
 def linear_search(data, search_key):
     for index, value in enumerate(data):
         if value == search_key:
