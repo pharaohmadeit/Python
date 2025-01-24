@@ -1,0 +1,1 @@
+Palindrome detection algorithm using Regular Expressions and List Comprehensions
