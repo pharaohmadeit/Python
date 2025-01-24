@@ -1,1 +1,1 @@
-Palindrome detection algorithm using Regular Expressions and List Comprehensions
+Detect a Palindrome pattern in a dictionary of candidates. Output the qualified candidates. detection algorithm using Regular Expressions and List Comprehensions
