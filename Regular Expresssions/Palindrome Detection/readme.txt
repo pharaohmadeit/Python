@@ -1,1 +1,1 @@
-Detect a Palindrome pattern in a dictionary of candidates. Output the qualified candidates. detection algorithm using Regular Expressions and List Comprehensions
+With an input of a dictionary of candidates, output the qualified candidates.
