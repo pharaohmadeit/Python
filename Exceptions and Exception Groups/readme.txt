@@ -1,0 +1,1 @@
+Python exception handling, try/except statement, else clause, executing code when no exceptions occur in a try suite, finally clause, raising exceptions, tracebacks, stack unwinding, adding notes to exceptions, exception groups and except*
