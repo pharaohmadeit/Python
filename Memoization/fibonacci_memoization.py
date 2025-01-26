@@ -1,4 +1,5 @@
 # coding: utf-8
+# cache expensive calculations to improve recursive O(n)
 import time
 def fibonacci_memoized(n, calls=[0], cache={}):
     calls[0] += 1
